@@ -63,17 +63,17 @@ body > header > h1 span {
 
 /* Navigation Styles */
 
-nav#mainLinks > ul > li {
+nav#mainLinks ul li {
    list-style-type: none;
    padding-top: 5px;
    padding-bottom: 5px;
 }
 
-nav#mainLinks > ul > li > a:visited, nav#mainLinks > ul > li > a:link {
+nav#mainLinks ul li > a:visited, nav#mainLinks ul li > a:link {
    color: white;
 }
 
-nav#mainLinks > ul > li > a:hover, nav#mainLinks > ul > li > a:active {
+nav#mainLinks ul li > a:hover, nav#mainLinks ul li > a:active {
    color: rgba(255, 255, 255, 0.8);
    background-color: rgba(51, 51, 51, 0.5);
 }
@@ -81,8 +81,17 @@ nav#mainLinks > ul > li > a:hover, nav#mainLinks > ul > li > a:active {
 
 /* Outline Styles */
 
+nav#outline ol {
+   color: rgb(51, 51, 51);
+   font-size: 0.8em;
+}
 
+nav#outline ol h1 {
+   text-align: center;
+}
 
+   
+   
 
 /* Section Styles */
 
