@@ -63,7 +63,11 @@ body > header > h1 span {
 
 /* Navigation Styles */
 
-
+nav#mainLinks > ul {
+   list-style-type: none;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
 
 
 /* Outline Styles */
