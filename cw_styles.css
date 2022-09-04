@@ -108,6 +108,7 @@ nav#outline ol li > a:hover, nav#outline ol li > a:active {
    text-decoration: underline;
 }
 
+
 /* Section Styles */
 
 section {
@@ -133,4 +134,14 @@ section article p:first-of-type::first-letter {
    
 
 /* Aside Styles */
+
+section aside {
+   font-size: 0.9em;
+}
+
+section aside h1 {
+   font-size: 1.4em;
+   text-align: center;
+}
+
 
