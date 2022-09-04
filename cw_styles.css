@@ -52,8 +52,12 @@ body > header > h1 {
    color: rgba(255, 255, 255, 0.8);
    font-family: Limelight, cursive;
    margin: 0px;
-   span color: rgba(255, 255, 255, 0.4);
 }
+
+body > header > h1 span {
+   color: rgba(255, 255, 255, 0.4);
+}
+
 
 /* Navigation Styles */
 
