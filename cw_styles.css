@@ -63,7 +63,7 @@ body > header > h1 span {
 
 /* Navigation Styles */
 
-nav#mainLinks ol {
+nav#mainLinks ul {
    padding-top: 5px;
    padding-bottom: 5px;
 }
