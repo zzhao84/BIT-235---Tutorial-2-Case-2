@@ -99,11 +99,11 @@ nav#outline > ol ol {
    list-style-type: upper-alpha;
 }
 
-nav#outline ol li > a:visited, nav#outline ol li > a:link {
+nav#outline > ol li > a:visited, nav#outline ol li > a:link {
    color: rgb(101, 101, 101);
 }
 
-nav#outline ol li > a:hover, nav#outline ol li > a:active {
+nav#outline > ol li > a:hover, nav#outline ol li > a:active {
    color: rgb(97, 97, 211);
    text-decoration: underline;
 }
