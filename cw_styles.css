@@ -85,6 +85,10 @@ nav#outline ol {
    font-size: 0.8em;
 }
 
+nav#outline h1 {
+   text-align: center;
+}
+
 nav#outline ol h1 {
    text-align: center;
 }
