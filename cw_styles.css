@@ -63,7 +63,7 @@ body > header > h1 span {
 
 /* Navigation Styles */
 
-nav#mainLinks ul > a[href="#"] {
+nav#mainLinks > ul > a[href] {
    padding-top: 5px;
    padding-bottom: 5px;
 }
