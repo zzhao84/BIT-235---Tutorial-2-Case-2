@@ -122,11 +122,11 @@ section header h1 {
 
 /* Article Styles */
 
-article h2 {
+section article h2 {
    font-size: 1.4em;
 }
 
-article > p:first-of-type > p::first-letter {
+section article > p:first-of-type p::first-letter {
    font-size: 2em;
    vertical-align: baseline;
 }
