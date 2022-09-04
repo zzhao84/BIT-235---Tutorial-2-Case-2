@@ -126,7 +126,7 @@ section article h2 {
    font-size: 1.4em;
 }
 
-section article > p:first-of-type p::first-letter {
+section article > p:first-of-type::first-letter {
    font-size: 2em;
    vertical-align: baseline;
 }
