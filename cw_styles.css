@@ -64,7 +64,6 @@ body > header > h1 span {
 /* Navigation Styles */
 
 nav#mainLinks ul li {
-   list-style-type: none;
    padding-top: 5px;
    padding-bottom: 5px;
 }
@@ -90,7 +89,11 @@ nav#outline ol h1 {
    text-align: center;
 }
 
-   
+nav#outline > ol {
+   line-height: 2em;
+   margin: 0px 5px;
+   list-style-type: upper-roman;
+}
    
 
 /* Section Styles */
