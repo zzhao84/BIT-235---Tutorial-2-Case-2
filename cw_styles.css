@@ -1,0 +1,74 @@
+@charset "utf-8";
+@import cw_layout.css;
+
+/*
+   New Perspectives on HTML5 and CSS3, 8th Edition
+   Tutorial 2
+   Case Problem 2
+   
+   Civil War History Style Sheet
+   Author: Zack Zhao
+   Date:   September 3rd, 2022
+   
+   Filename: cw_styles.css
+
+*/
+
+
+/* Structural Styles */
+html {
+   background-color: rgb(151, 151, 151);
+}
+
+body {
+   background-color: rgb(180, 180, 223);
+   font-family: Verdana, Geneva, sans-serif;
+}
+
+h1,h2 {
+   font-weight: normal;
+}
+
+nav a {
+   text-decoration: none;
+}
+
+footer {
+   color: 
+   background-color: rgb(101, 101, 101);
+   font-size: 0.8em;
+   text-align: center;
+   padding: 1px 0px 1px 0px;
+}
+  
+
+/* Body Header Styles */
+html {
+   background-color: rgb(97, 97, 211);
+}
+
+
+
+
+/* Navigation Styles */
+
+
+
+
+/* Outline Styles */
+
+
+
+
+/* Section Styles */
+
+
+
+
+/* Article Styles */
+
+
+
+
+/* Aside Styles */
+
